@@ -1,5 +1,5 @@
 {
-    "name": "phoenix/repository",
+    "name": "phpnomad/array-json-config",
     "description": "",
     "type": "library",
     "homepage": "https://github.com/phoenix/core",
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Phoenix\\Core\\": "lib/"
+            "PHPNomad\\ArrayJsonConfig\\": "lib/"
         }
     },
     "autoload-dev": {
